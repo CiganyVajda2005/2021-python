@@ -1,0 +1,22 @@
+print ('feladat1')
+nev = input (('mi a neved geci?= '))
+print (' Üdvözletem ' + nev  + ' szeva geci ' )
+
+print('feladat2')
+print('***********')
+print('OOOOOOOOOO')
+
+print('feladat3')
+print('*O*O*O*O*O')
+print('*O*O*O*O*O')
+
+print('feladat4')
+szam1 = input ((' egyik szám = '))
+szam2= input (('másik szám= '))
+print ( + szam1 + szam2  ,'2 szám összege' )
+
+print('feladat5')
+szam1 = input ((' egyik szám = '))
+szam2= input (('másik szám= '))
+szam3 = input(('harmadik szám='))
+print ( + szam1 + szam2 + szam3  ,'2 szám összege' )
