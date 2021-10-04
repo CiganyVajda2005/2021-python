@@ -1,0 +1,11 @@
+x = int(input('első szám= '))
+y = int(input('második szám= '))
+
+if( x > y):
+    print('az első szám nagyobb')
+
+elif (x == y):
+    print('a két szám egyenlő')
+
+else:
+    print('második szám a nagyobb')
