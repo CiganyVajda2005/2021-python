@@ -1,0 +1,13 @@
+from typing import AsyncContextManager
+
+
+nev1 = input (('mi a vezetékneved?= '))
+
+nev2 = input (('mi a keresztneved?= '))
+print (' csá  ' + nev1   +  nev2 + ' gyere holnap is' )
+
+Age = int  (input('hány éves vagy?= '))
+print ('Te ennyi éves vagy' , 2021-Age,)
+
+
+
