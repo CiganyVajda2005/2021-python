@@ -1,0 +1,33 @@
+x = int(input('első szám= '))
+y = int(input('második szám= '))
+z = int (input('harmadik szám= ' ))
+
+U= min (x,y,z)
+print ('a legkisebb szám', U)
+
+
+
+
+szam1 = int(input('első szám= '))
+szam2 = int(input('második szám= '))
+szam3 = int (input('harmadik szám= ' ))
+
+x= max (szam1,szam2,szam3)
+print ('a legnagyobb szám', x)
+
+
+x = int(input('hány pontod lett? ')) 
+
+if (x<50):
+  print('1 est kaptál')
+elif (50<=x<60):
+    print('2 est kaptál')
+
+elif (60<=x<70):
+  print('3 ast kaptál')
+
+elif (70<=x<85):
+  print('4 est kaptál')
+
+elif (x>=85):
+  print('5 öst kaptál')
