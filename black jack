@@ -1,0 +1,10 @@
+import random
+lap1 = random.randint(1,11)
+print(lap1)
+lap2 = random.randint (1,11)
+print(lap2)
+if( lap1 + lap2):
+    print('a két lapod összege', lap1 + lap2)
+    valasz = input('kérsz még lapot? [igen/nem]')
+    if (valasz == 'igen'):
+         elif (valasz =='nem'):
