@@ -1,0 +1,31 @@
+print ('Költő vagyok - mit érdekelne')
+print ('engem a költészet maga?')
+print ('Még a torkom is félrenyelne,')
+print ('Ha lennék a Többi átlaga')  
+nev = input (('Mi a neved csoro?'))
+szulido = int (input('Mikor születtél?'))
+szulhely = input (('Születési helye'))
+lakcim = input (('Mi a lakcímed?'))
+
+x = int(input('első szám= '))
+y = int(input('második szám= '))
+
+y = int(input('első szám= '))
+x = int(input('második szám= '))
+
+szam0 = int(input(' kerület első szám '))
+szam1 = int(input('kerület második szám '))
+print ('kerület =' , szam0 + szam1 )
+
+szam0 = int(input(' terüle első szám '))
+szam1 = int(input('terület második szám '))
+print ('terület =' , szam0 * szam1 )
+
+haromszog = int(input(' kerület első szám '))
+haromszog4 = int (input('haramadik szam'))
+haromszog1 = int(input('kerület második szám '))
+print ('kerület =' , haromszog4 + haromszog1 )
+
+haromszog2 = int(input(' kerület első szám '))
+haromszog3 = int(input('kerület második szám '))
+print ('kerület =' , szam0 * szam1/2 )
