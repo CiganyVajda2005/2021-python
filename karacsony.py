@@ -66,7 +66,7 @@ elif 13 < date < 20:
     gyertya (2)
 
 elif 20 < date < 24:
-    gyertya (3)
+    gyertya (1)
     
     
     
