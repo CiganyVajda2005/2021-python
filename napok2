@@ -1,0 +1,15 @@
+nap =int(input("hanyadik nap van cigány?"))
+if nap == 1:
+      print ('hétfő')
+elif nap == 2:
+      print ('kedd')
+elif nap == 3:
+    print ('szerda')
+elif nap == 4:
+    print ('csütörtök')
+elif nap == 5:
+    print ('péntek')
+elif nap == 6:
+    print ('szombat')
+elif nap == 7:
+    print ('vasárnap')
