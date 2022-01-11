@@ -1,0 +1,31 @@
+while True:
+
+    val =input('hanyadik nap van?')
+    
+    try:
+        if val == 'hétfő':
+         print (' 1. naphétköznap van')
+         break
+
+        if val == 'kedd':
+            print ('2. nap hétköznap van')
+            break
+        if val == 'szerda':
+            print ('3. nap hétköznap van')
+            break
+        if val == 'csütörtök':
+            print (' 4. naphétköznap van')
+            break
+        if val == 'péntek':
+            print ('5. naphétköznap van')
+            break
+        if val == 'szombat':
+            print ('6. naphétvége van köcsög')
+            break
+        if val == 'vasárnap':
+            print ('7. naphétvége van köcsög')
+            break
+        else:
+            print('nem jó köcsög' , end= "")
+    except Exception:
+       print('error')
