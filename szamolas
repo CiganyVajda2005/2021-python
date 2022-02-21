@@ -1,0 +1,9 @@
+import random 
+szamok = [2,5,7,8,1,2,3,7,8,7]
+print ("feltételes összegzés")
+max = 1 
+for x in szamok:
+    if x > max ==1:
+        max = x 
+        print ("páros számok összege")
+        print (max(szamok))
